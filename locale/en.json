@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Custom Plugin Bulk Switch",
+    "description": "Adds two buttons to the Plugins page that enable or disable every plugin you installed yourself, leaving built-in plugins and bundled experimental plugins alone."
+  }
+}
